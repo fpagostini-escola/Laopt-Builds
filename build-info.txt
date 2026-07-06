@@ -1,0 +1,3 @@
+﻿Build: 45
+Commit: c5d9b9afd84e3fbcba45ec92c30bc92eb889a25d
+Data: 07/06/2026 18:23:41
